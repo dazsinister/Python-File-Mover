@@ -2,10 +2,10 @@ import os
 import shutil
 
 
-source_dir = 'C:\Users\Josh\Downloads'
-target_dir_img = 'C:\Users\Josh\Pictures'
-target_dir_video = 'C:\Users\Josh\Videos'
-target_dir_exe = 'C:\Users\Josh\Installs'
+source_dir = 'C:\Users\User\Downloads'
+target_dir_img = 'C:\Users\User\Pictures'
+target_dir_video = 'C:\Users\User\Videos'
+target_dir_exe = 'C:\Users\User\Installs'
 
 while True:
 file_names = os.listdir(source_dir)
